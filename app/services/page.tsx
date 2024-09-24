@@ -164,7 +164,7 @@ export default function ServicesPage() {
               {testimonials.map((testimonial, index) => (
                 <Card key={index}>
                   <CardContent className="p-6">
-                    <p className="text-lg mb-4 italic">"{testimonial.quote}"</p>
+                    <p className="text-lg mb-4 italic">{testimonial.quote}</p>
                     <p className="font-bold text-indigo-600">{testimonial.author}</p>
                   </CardContent>
                 </Card>
@@ -199,7 +199,7 @@ export default function ServicesPage() {
             <div className="grid gap-6 lg:grid-cols-2 items-center">
               <div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mb-4">Ready to Elevate Your Digital Presence?</h2>
-                <p className="text-xl mb-6">Let's discuss how we can help you achieve your digital marketing goals.</p>
+                <p className="text-xl mb-6">Lets discuss how we can help you achieve your digital marketing goals.</p>
               </div>
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-end">
                 <Button className="bg-white text-indigo-600 hover:bg-indigo-100">
