@@ -18,7 +18,7 @@ export default function ServicesPage() {
     { name: "PR", description: "Get featured on top-tier media outlets.", icon: "target" },
     { name: "Programmatic", description: "Generate strong brand awareness with high-impact media.", icon: "trending-up" },
     { name: "Non-Branded Search (PPC)", description: "Eliminate wasteful ad spend with ads people actually want to see.", icon: "search" },
-    { name: "Influencer", description: "Leverage the reach and credibility of your audience's role models.", icon: "users" },
+    { name: "Influencer", description: "Leverage the reach and credibility of your audiences role models.", icon: "users" },
   ]
 
   const clientResults = [
