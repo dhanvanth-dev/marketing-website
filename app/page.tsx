@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import Image from 'next/image'
+//import Image from 'next/image'
 import { Button } from "./components/ui/button"
 import { Input } from "./components/ui/input"
 import { Textarea } from "./components/ui/textarea"
@@ -37,7 +37,7 @@ export default function MarketingWebsite() {
                     Transform Your Digital Presence
                   </h1>
                   <p className="max-w-[600px] text-gray-200 md:text-xl">
-                    We're a digital marketing agency that helps businesses grow online through strategic marketing solutions.
+                    We are a digital marketing agency that helps businesses grow online through strategic marketing solutions.
                   </p>
                 </div>
                 <div className="flex flex-col gap-2 min-[400px]:flex-row">
