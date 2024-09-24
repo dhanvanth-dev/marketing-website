@@ -62,7 +62,7 @@ export default function AboutUs() {
                   Innovate. Create. Elevate.
                 </h1>
                 <p className="mx-auto max-w-[700px] text-xl text-gray-200 md:text-2xl">
-                  We're passionate about helping businesses grow through innovative digital strategies and cutting-edge technologies.
+                  Were passionate about helping businesses grow through innovative digital strategies and cutting-edge technologies.
                 </p>
               </div>
               <div className="space-x-4">
