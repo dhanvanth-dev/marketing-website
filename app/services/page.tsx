@@ -67,7 +67,7 @@ export default function ServicesPage() {
             <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
               <div className="flex justify-center lg:justify-start">
                 <Image
-                  src="/placeholder.svg"
+                  src="/placeholder.png"
                   alt="Digital Marketing Services"
                   width={500}
                   height={500}
